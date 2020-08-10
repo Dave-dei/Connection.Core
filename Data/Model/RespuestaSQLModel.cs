@@ -1,6 +1,6 @@
 ﻿using Connection.Core.Data.Entity;
 using System;
-using System.Collections.Generic;
+using System.Collections.Generic; 
 
 namespace Connection.Core.Model
 {

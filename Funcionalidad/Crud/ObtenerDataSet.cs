@@ -1,6 +1,6 @@
 ﻿using Connection.Core.Data.Entity;
 using Connection.Core.Model;
-using System.Data;
+using System.Data; 
 
 namespace Connection.Core.Funcionalidad.Crud
 {

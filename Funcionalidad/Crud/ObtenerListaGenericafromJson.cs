@@ -3,7 +3,7 @@ using Connection.Core.Model;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Data.SqlClient;
-using System.Text;
+using System.Text; 
 
 namespace Connection.Core.Funcionalidad.Crud
 {

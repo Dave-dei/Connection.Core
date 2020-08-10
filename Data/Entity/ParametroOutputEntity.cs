@@ -1,4 +1,4 @@
-﻿namespace Connection.Core.Data.Entity
+﻿namespace Connection.Core.Data.Entity 
 {
     public struct ParametroOutputEntity
     {

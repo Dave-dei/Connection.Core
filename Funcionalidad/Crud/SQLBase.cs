@@ -1,6 +1,6 @@
 ﻿using Connection.Core.Interfaz;
 using Connection.Core.Model;
-
+ 
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;

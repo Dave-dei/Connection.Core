@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Data.SqlClient;
+using System.Data.SqlClient; 
 
 namespace Connection.Core.Funcionalidad.Crud
 {

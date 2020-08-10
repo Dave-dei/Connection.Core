@@ -1,5 +1,5 @@
 ﻿using Connection.Core.Model;
-using System.Data.SqlClient;
+using System.Data.SqlClient; 
 
 namespace Connection.Core.Interfaz
 {

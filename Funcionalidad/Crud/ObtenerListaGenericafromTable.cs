@@ -1,11 +1,13 @@
 ﻿using Connection.Core.Data.Entity;
 using Connection.Core.Model;
+
 using Newtonsoft.Json;
+
 using System.Collections.Generic;
 
 namespace Connection.Core.Funcionalidad.Crud
 {
-    public class ObtenerListaGenericafromTable
+    public static class ObtenerListaGenericafromTable
     {
         public static RespuestaSQLModel<List<T>> Consultar<T>(ParametroEntity parametro)
         {

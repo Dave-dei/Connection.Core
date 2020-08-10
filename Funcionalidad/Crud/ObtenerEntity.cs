@@ -1,7 +1,7 @@
 ﻿using Connection.Core.Data.Entity;
 using Connection.Core.Model;
 using System.Collections.Generic;
-using System.Linq;
+using System.Linq; 
 
 namespace Connection.Core.Funcionalidad.Crud
 {

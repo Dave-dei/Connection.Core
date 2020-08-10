@@ -1,5 +1,5 @@
 ﻿using System;
-using System.Data.SqlTypes;
+using System.Data.SqlTypes; 
 
 namespace Connection.Core.Funcionalidad
 {

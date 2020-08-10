@@ -1,6 +1,6 @@
 ﻿using Connection.Core.Data.Entity;
 using Connection.Core.Model;
-
+ 
 namespace Connection.Core.Funcionalidad.Crud
 {
     public struct ActualizarEntity

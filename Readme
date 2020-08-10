@@ -1,0 +1,11 @@
+﻿
+--------------------------------------------------------------------------->> DHernandez
+Este proyecto funciona para Core y Framework 4.8
+El objetivo de este nuget es hacer operaciones crud a SQL de forma sencilla solo especificando lo minimo necesario que es:
+
+1. cadena de conexión
+2. parametros SQL
+3. timeout [opcional]
+4. Tipo de dato a devolver  - [Clase definida en el método]
+
+

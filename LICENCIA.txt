@@ -1,0 +1,7 @@
+------ >>>> Licencia David Hernandez Valencia
+
+Este software es de uso libre para los desarrolladores interesados, 
+con esta licencia se otorgan permisos para copiar, modificar y/o fusionar.
+
+A su vez, este software se proporciona tal cual "sin garantías de ningún tipo". En ningún caso el autor
+(David Hernandez Valencia) será responsable por cualquier reclamación, daño u otra responsabilidad.

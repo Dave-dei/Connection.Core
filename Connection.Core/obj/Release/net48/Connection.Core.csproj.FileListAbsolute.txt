@@ -12,3 +12,4 @@ C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Cor
 C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.csproj.CopyComplete
 C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.dll
 C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.pdb
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.csprojAssemblyReference.cache

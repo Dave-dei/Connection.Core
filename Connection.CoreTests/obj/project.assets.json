@@ -2047,7 +2047,7 @@
           "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
         }
       },
-      "Connection.Core/1.0.0.2": {
+      "Connection.Core/1.0.0.3": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
@@ -6966,7 +6966,7 @@
         "system.xml.xpath.xmldocument.nuspec"
       ]
     },
-    "Connection.Core/1.0.0.2": {
+    "Connection.Core/1.0.0.3": {
       "type": "project",
       "path": "../Connection.Core/Connection.Core.csproj",
       "msbuildProject": "../Connection.Core/Connection.Core.csproj"
@@ -6974,7 +6974,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Connection.Core >= 1.0.0.2",
+      "Connection.Core >= 1.0.0.3",
       "MSTest.TestAdapter >= 2.0.0",
       "MSTest.TestFramework >= 2.0.0",
       "Microsoft.NET.Test.Sdk >= 16.2.0",

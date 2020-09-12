@@ -6,7 +6,6 @@ C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\net48\Connection.Core.dll
 C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\net48\Connection.Core.pdb
 C:\Nuget\net48\Connection.Core.dll
 C:\Nuget\net48\Connection.Core.pdb
-C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.csprojAssemblyReference.cache
 C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.AssemblyInfoInputs.cache
 C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.AssemblyInfo.cs
 C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\net48\Connection.Core.csproj.CoreCompileInputs.cache

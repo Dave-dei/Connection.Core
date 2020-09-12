@@ -20,7 +20,7 @@
     <PackageReleaseNotes></PackageReleaseNotes>
     <AssemblyVersion>1.0.0.2</AssemblyVersion>
     <Product>Conexion.Core</Product>
-    <PackageId>Conexion.Core</PackageId>
+    <PackageId>Connection.Core</PackageId>
     <RepositoryUrl>https://github.com/Dave-dei/Connection.Core</RepositoryUrl>
     <FileVersion>1.0.0.2</FileVersion>
   </PropertyGroup>

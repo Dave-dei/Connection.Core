@@ -1,0 +1,14 @@
+C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\netstandard2.0\Connection.Core.AssemblyInfoInputs.cache
+C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\netstandard2.0\Connection.Core.AssemblyInfo.cs
+C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\netstandard2.0\Connection.Core.csproj.CoreCompileInputs.cache
+C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\netstandard2.0\Connection.Core.dll
+C:\MYTFS\Dave.Nuget\Main\Connection.Core\obj\Release\netstandard2.0\Connection.Core.pdb
+C:\Nuget\netstandard2.0\Connection.Core.deps.json
+C:\Nuget\netstandard2.0\Connection.Core.dll
+C:\Nuget\netstandard2.0\Connection.Core.pdb
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\netstandard2.0\Connection.Core.csprojAssemblyReference.cache
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\netstandard2.0\Connection.Core.AssemblyInfoInputs.cache
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\netstandard2.0\Connection.Core.AssemblyInfo.cs
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\netstandard2.0\Connection.Core.csproj.CoreCompileInputs.cache
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\netstandard2.0\Connection.Core.dll
+C:\Git\Dave-dei\Connection.Core\Connection.Core\obj\Release\netstandard2.0\Connection.Core.pdb

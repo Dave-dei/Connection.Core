@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Connection.Core</id>
+    <version>1.0.0.3</version>
+    <authors>David Hernandez Valencia</authors>
+    <owners>David Hernandez Valencia</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">LICENCIA.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <description>Nuget para realiza la conexión a SQL y ejecutar procesos Crud, es multiplataforma se puede utilizar en proyectos Core y soporta Framework 4.8</description>
+    <tags>SQL</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.8">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.1" exclude="Build,Analyzers" />
+      </group>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Newtonsoft.Json" version="12.0.3" exclude="Build,Analyzers" />
+        <dependency id="System.Data.SqlClient" version="4.8.1" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Nuget\net48\Connection.Core.dll" target="lib\net48\Connection.Core.dll" />
+    <file src="C:\Nuget\netstandard2.0\Connection.Core.dll" target="lib\netstandard2.0\Connection.Core.dll" />
+    <file src="C:\MYTFS\Dave.Nuget\Main\Connection.Core\LICENCIA.txt" target="LICENCIA.txt" />
+  </files>
+</package>
